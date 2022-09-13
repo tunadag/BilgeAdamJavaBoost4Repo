@@ -1,4 +1,4 @@
-package com.bilgeadam.boost.week02;
+package com.bilgeadam.boost.week02.lesson01;
 
 public class week02lesson01 {
 
